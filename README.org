@@ -1,0 +1,10 @@
+* cl-xkeysym
+
+A package to helpfully convert between keycodes and pretty names
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stumpwm/cl-xkeysym.git   |
+| commit  | 8a745d2  |
+| systems | cl-xkeysym |
+|---------+-------------------------------------------|
+
